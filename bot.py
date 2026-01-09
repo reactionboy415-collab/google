@@ -10,7 +10,7 @@ from aiogram import Bot, Dispatcher, types, F
 from aiogram.types import BufferedInputFile
 
 # --- 🔑 FULL CREDENTIALS ---
-API_TOKEN = '8540275734:AAFxrWrgYJgeD3YzrnU-y2wiwkZVpjEQyas'
+API_TOKEN = '8540275734:AAF_EApz2YKtarq_2pUwwLrW4_W_aQL5mNU'
 ADMIN_ID = 7840042951
 
 SUPABASE_URL = "https://vwmhbpgwhfwuwtattset.supabase.co/functions/v1/fetch-proxies"
